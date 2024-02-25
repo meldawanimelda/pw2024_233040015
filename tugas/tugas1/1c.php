@@ -8,7 +8,7 @@
 
     <style>
         .kotak2 {
-            display: flex;
+            display: flex;https://github.com/meldawanimelda/pw2024_233040015
         }
 
         .box {
